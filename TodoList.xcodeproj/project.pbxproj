@@ -75,10 +75,10 @@
 		E4C6F69B2DA92C7900A0CC94 = {
 			isa = PBXGroup;
 			children = (
-				E4C6F6A62DA92C7900A0CC94 /* TodoList */,
 				E4C6F6B42DA92C7A00A0CC94 /* TodoListTests */,
 				E4C6F6BE2DA92C7A00A0CC94 /* TodoListUITests */,
 				E4C6F6A52DA92C7900A0CC94 /* Products */,
+				E4C6F6A62DA92C7900A0CC94 /* TodoList */,
 			);
 			sourceTree = "<group>";
 		};
